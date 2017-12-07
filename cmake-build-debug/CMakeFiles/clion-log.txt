@@ -1,0 +1,5 @@
+"/Users/mats/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/172.4343.16/CLion.app/Contents/bin/cmake/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/mats/Projects/face-detector-viola-algorithm
+-- Found OpenCV: /usr/local (found version "3.3.1") 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/mats/Projects/face-detector-viola-algorithm/cmake-build-debug
