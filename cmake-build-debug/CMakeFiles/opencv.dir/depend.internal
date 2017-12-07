@@ -3,6 +3,8 @@
 
 CMakeFiles/opencv.dir/main.cpp.o
  /Users/mats/Projects/face-detector-viola-algorithm/main.cpp
+ /usr/local/include/opencv/cv.h
+ /usr/local/include/opencv/cv.hpp
  /usr/local/include/opencv/cxcore.h
  /usr/local/include/opencv2/calib3d.hpp
  /usr/local/include/opencv2/calib3d/calib3d_c.h
